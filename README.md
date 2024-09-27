@@ -11,8 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=R0binj0&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br />
 ![](https://github-readme-stats.vercel.app/api?username=R0binj0&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true) <br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=R0binj0&theme=github_dark_dimmed&hide_border=false) <br />
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=R0binj0&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ---
