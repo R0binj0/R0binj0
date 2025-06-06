@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am passionate 18-year old junior software developer, known for being a quick learner and highly motivated. Good in Estonian and English languages, I love creating and being a part of creative projects. And I am excited to contribute my skills and adaptability to new and cool teams!
+ I am passionate 19-year old junior software developer, known for being a quick learner and highly motivated. Good in Estonian and English languages, I love creating and being a part of creative projects. And I am excited to contribute my skills and adaptability to new and cool teams!
 
 
 ## 🌐 Socials:
